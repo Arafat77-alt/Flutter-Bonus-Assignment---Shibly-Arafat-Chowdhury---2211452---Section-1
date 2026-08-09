@@ -135,13 +135,7 @@ local.properties
 **/linux/flutter/generated_plugin_registrant.h
 **/linux/flutter/generated_plugins.cmake
 
-# Firebase
-firebase_options.dart
-lib/firebase_options_*.dart
-firebase.json
-android/app/google-services.json
-android/app/src/*/google-services.json
-ios/flavors/*/GoogleService-Info.plist
+
 
 # Environments
 .env*

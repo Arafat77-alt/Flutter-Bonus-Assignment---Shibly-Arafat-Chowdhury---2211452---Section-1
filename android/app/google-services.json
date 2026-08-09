@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779308579241",
+    "project_id": "coffee-app-bonus",
+    "storage_bucket": "coffee-app-bonus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779308579241:android:73931a4854b7bc2f15acb8",
+        "android_client_info": {
+          "package_name": "com.example.summer_iub_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcWPkppinw6maAT9CYfFcZqzX3McYnMwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

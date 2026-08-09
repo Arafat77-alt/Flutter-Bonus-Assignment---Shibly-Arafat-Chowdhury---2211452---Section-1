@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:summer_iub_app/screens/coffe_records_screen.dart';
 import 'package:summer_iub_app/screens/create_coffee_record_screen.dart';
-import 'package:summer_iub_app/state_management/coffee_state_management.dart';
 import 'package:summer_iub_app/widgets/app_backgroud_design_widget.dart';
 
 // ACM
